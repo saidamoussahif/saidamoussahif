@@ -8,4 +8,4 @@ Programming Languages:
 JavaScript HTML5 CSS3 PHP
 
 Frameworks, Platforms and Libraries:
-js, Vuejs, Reactjs, Nextjs, Bootstrap, tailwind, Mysql, UML MVC
+Vuejs, Reactjs, Nextjs, Bootstrap, Tailwind css, Mysql, Mongodb, UML, MVC
