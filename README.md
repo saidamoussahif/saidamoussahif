@@ -1,11 +1,5 @@
-##Saida 's 👋 Github Profile
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I am Saida, I’m a Full Stack developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with php/oop/mvc .
-
-You can check out some of my projects and if you got any questions you can reach out in the links below.
-
-Programming Languages:
-JavaScript HTML5 CSS3 PHP
-
-Frameworks, Platforms and Libraries:
-Vuejs, Reactjs, Nextjs, Bootstrap, Tailwind css, Mysql, Mongodb, UML, MVC
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
